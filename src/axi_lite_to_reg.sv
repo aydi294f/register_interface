@@ -216,6 +216,7 @@ module axi_lite_to_reg #(
 
 endmodule
 
+/*
 `include "register_interface/typedef.svh"
 `include "register_interface/assign.svh"
 `include "axi/typedef.svh"
@@ -284,3 +285,4 @@ module axi_lite_to_reg_intf #(
   );
 
 endmodule
+*/
